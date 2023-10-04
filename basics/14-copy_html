@@ -1,2 +1,2 @@
 #!/bin/bash
-Cp html mv pwd
+cp *.html ..
