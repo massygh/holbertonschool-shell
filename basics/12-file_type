@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp -name "iamafile"
+-e "$file_path"
