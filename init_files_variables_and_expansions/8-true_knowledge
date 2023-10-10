@@ -1,2 +1,2 @@
 #!/bin/bash
-import os; print(128 + int(os.getenv('TRUEKNOWLEDGE')))
+print(128 + int(os.getenv('TRUEKNOWLEDGE')))
