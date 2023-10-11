@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x hello_user
+echo "hello $(id -un)"
