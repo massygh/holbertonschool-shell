@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $current_user"
+chmod +x hello_user
